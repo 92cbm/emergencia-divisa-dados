@@ -1,5 +1,5 @@
 {
-  "versao": 2,
+  "versao": 1,
   "atualizadoEm": "2026-11-25",
   "cidades": [
     {
@@ -7,7 +7,7 @@
       "nome": "Porto União",
       "uf": "SC",
       "servicos": [
-        { "id": "bombeiros", "nome": "Bombeiros", "icone": "bombeiros", "telefone": "+5547988738864", "whatsapp": "+5547988738863" },
+        { "id": "bombeiros", "nome": "Bombeiros", "icone": "bombeiros", "telefone": "+5547988738863", "whatsapp": "+5547988738863" },
         { "id": "policia", "nome": "Polícia Militar", "icone": "policia", "telefone": "+5548998043146", "whatsapp": "+5548998043146" },
         { "id": "defesa_civil", "nome": "Defesa Civil", "icone": "defesa_civil", "telefone": "+5542988783003", "whatsapp": "+5542988783003" }
       ]
