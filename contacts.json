@@ -1,0 +1,28 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-11-25",
+  "cidades": [
+    {
+      "id": "porto_uniao",
+      "nome": "Porto União",
+      "uf": "SC",
+      "servicos": [
+        { "id": "bombeiros", "nome": "Bombeiros", "icone": "bombeiros", "telefone": "+5547988738863", "whatsapp": "+5547988738863" },
+        { "id": "policia", "nome": "Polícia Militar", "icone": "policia", "telefone": "+5548998043146", "whatsapp": "+5548998043146" },
+        { "id": "defesa_civil", "nome": "Defesa Civil", "icone": "defesa_civil", "telefone": "+5542988783003", "whatsapp": "+5542988783003" }
+      ]
+    },
+    {
+      "id": "uniao_da_vitoria",
+      "nome": "União da Vitória",
+      "uf": "PR",
+      "servicos": [
+        { "id": "bombeiros", "nome": "Bombeiros", "icone": "bombeiros", "telefone": "+5542998097722", "whatsapp": "+5542998097722" },
+        { "id": "samu", "nome": "SAMU", "icone": "samu", "telefone": "+554191941137", "whatsapp": "554191941137" },
+        { "id": "policia", "nome": "Polícia Militar", "icone": "policia", "telefone": "+554235231220", "whatsapp": "+554235231220" },
+        { "id": "defesa_civil", "nome": "Defesa Civil", "icone": "defesa_civil", "telefone": "+5542920026142", "whatsapp": "+5542920026142" }
+      ]
+    }
+
+  ]
+}
